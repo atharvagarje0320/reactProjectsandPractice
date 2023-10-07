@@ -7,6 +7,12 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "Atharva Garje",
   "browserslist": [
     "last 2 versions "
   ]
